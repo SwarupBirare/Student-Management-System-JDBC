@@ -1,0 +1,17 @@
+# Ignore build and compiled files
+/build/
+/target/
+*.class
+
+# Ignore IDE specific files
+*.iml
+.idea/
+.vscode/
+*.log
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore dependencies
+/WEB-INF/lib/*.jar
